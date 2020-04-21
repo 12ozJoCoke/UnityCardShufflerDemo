@@ -1,0 +1,79 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!181963792 &2655988077585873504
+Preset:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: tester
+  m_TargetType:
+    m_NativeTypeID: 114
+    m_ManagedTypePPtr: {fileID: 11500000, guid: fcf12abccfc30864abe6ae1e12c3ff93,
+      type: 3}
+    m_ManagedTypeFallback: 
+  m_Properties:
+  - target: {fileID: 0}
+    propertyPath: m_Enabled
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_EditorHideFlags
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_EditorClassIdentifier
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: DefaultDeck.Array.size
+    value: 5
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: DefaultDeck.Array.data[0]
+    value: card 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: DefaultDeck.Array.data[1]
+    value: card 2
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: DefaultDeck.Array.data[2]
+    value: card 3
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: DefaultDeck.Array.data[3]
+    value: card 4
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: DefaultDeck.Array.data[4]
+    value: card 5
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: DeckToShuffle.Array.size
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: ActiveDeck.Array.size
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Player
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: numberOfDecks
+    value: 3
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: cardsToDeal
+    value: 5
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: shuffle
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: deal
+    value: 0
+    objectReference: {fileID: 0}
